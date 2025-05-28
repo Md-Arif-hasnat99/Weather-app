@@ -7,7 +7,6 @@ A simple weather application that allows users to check the current weather for 
 - Search for weather by city name
 - Display current temperature, humidity, and weather conditions
 - Responsive design for mobile and desktop
-- [Add your features here]
 
 ## Demo
 
