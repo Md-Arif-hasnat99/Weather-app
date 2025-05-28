@@ -11,7 +11,7 @@ A simple weather application that allows users to check the current weather for 
 
 ## Demo
 
-![Screenshot](Screenshot(102).png) <!-- Replace with actual screenshot if available -->
+![Screenshot](Screenshot.png) <!-- Replace with actual screenshot if available -->
 
 ## Built With
 
