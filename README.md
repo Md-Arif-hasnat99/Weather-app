@@ -34,6 +34,9 @@ To run this project locally:
     ```
 3. Open `index.html` in your browser.
 
+## Live website link:
+https://md-arif-hasnat99.github.io/Weather-app/
+
 ## API Reference
 
 This app uses [OpenWeatherMap API](https://openweathermap.org/api)  
