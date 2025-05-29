@@ -1,4 +1,4 @@
-const apiKey = 'a116c4b6bd6f14760c0f9cdfa7d3176c';
+const apiKey = '80aa696eb8814cfbd9ca767975d36e8e';
 const defaultCity = 'Cairo';
 
 const weatherIcons = {
