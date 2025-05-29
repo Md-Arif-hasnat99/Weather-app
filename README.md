@@ -38,7 +38,7 @@ https://md-arif-hasnat99.github.io/Weather-app/
 
 ## API Reference
 
-This app uses [OpenWeatherMap API](https://openweathermap.org/api)  
+This app uses [Free Weather API](https://www.weatherapi.com/)  
 <!-- Replace or update if you use a different API -->
 
 ## Contributing
