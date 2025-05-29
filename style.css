@@ -1,12 +1,12 @@
 /* Updated style.css for a modern design overhaul */
 
 :root {
-    --primary-color: #2435e9;
-    --secondary-color: #72df7d;
-    --accent-color: #2c4870;
-    --text-color: #63e2cb;
-    --card-bg: rgba(93, 97, 146, 0.7);
-    --gradient: linear-gradient(135deg, #052439 0%, #696ca6 100%);
+    --primary-color: #ec2d2dd2;
+    --secondary-color: #353a37;
+    --accent-color: #656168;
+    --text-color: rgb(39, 37, 36);
+    --card-bg: rgba(115, 176, 177, 0.7);
+    --gradient: linear-gradient(135deg, #364f60 0%, #45c877 100%);
     --success-color: #2ecc71;
     --error-color: #945048;
 }
@@ -110,7 +110,7 @@ body {
     padding: 2rem;
     -webkit-backdrop-filter: blur(10px);
     backdrop-filter: blur(10px);
-    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 8px 32px rgba(128, 100, 100, 0.1);
 }
 
 .current-weather {
